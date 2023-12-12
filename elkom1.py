@@ -4,7 +4,7 @@ import time
 
 dataMahasiswa = []
 
-fileName = "PRAKTIKUM\PRAK10\data_userr.json"
+fileName = "data_userr.json"
 
 def clear():
     os.system('cls' if os.name == "nt" else "clear")
